@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Devagya Singh Vats 👋
 
-<!--
-**devagyasv22/devagyasv22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Civil Engineering Student at IIT Kanpur
 
-Here are some ideas to get you started:
+💻 Incoming Software Engineer at eBay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interested in Backend Engineering, AI Engineering, Distributed Systems, and Full-Stack Development
+
+---
+
+## About Me
+
+- Incoming Software Engineer @ eBay
+- Building AI-powered applications and backend systems
+- Strong foundation in Data Structures & Algorithms
+- Exploring LLMs, RAG Systems, and AI Agents
+- Passionate about scalable software and system design
+
+---
+
+## Tech Stack
+
+### Languages
+- C++
+- Python
+- JavaScript
+- SQL
+
+### Backend
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### Cloud & DevOps
+- AWS
+- Docker
+- Git
+- GitHub Actions
+
+### AI & ML
+- TensorFlow
+- Scikit-learn
+- OpenAI APIs
+- LangChain
+- LangGraph
+
+---
+
+## Featured Projects
+
+### 🧠 Resume Analyzer
+AI-powered resume and job description matching platform with skill-gap analysis.
+
+### ⚖️ DeVote
+Real-time voting platform using JWT Authentication, RBAC, and WebSockets.
+
+### 💻 Online Judge
+Docker-based code execution platform with AI-powered code review.
+
+---
+
+## Currently Learning
+
+- Python for AI Engineering
+- Distributed Systems
+- RAG Architectures
+- AI Agents & LangGraph
+
+---
+
+## Connect With Me
+
+📧 devagyasv22@iitk.ac.in
+
+💼 LinkedIn: https://linkedin.com/in/devagya-vats
+
+🐙 GitHub: https://github.com/devagyasv22
