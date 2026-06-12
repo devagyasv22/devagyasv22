@@ -1,8 +1,8 @@
-# 💫 Hi, I'm Devagya Singh Vats 👋
+# Hi, I'm Devagya Singh Vats 
 
-🎓 **Final Year Civil Engineering Student at IIT Kanpur**
-💻 **Software Engineer at eBay**
-🚀 **Interested in Backend Engineering, AI Engineering, Distributed Systems, and Full-Stack Development**
+**Final Year Civil Engineering Student at IIT Kanpur**
+**Software Engineer at eBay**
+**Interested in Backend Engineering, AI Engineering, Distributed Systems, and Full-Stack Development**
 
 ---
 
