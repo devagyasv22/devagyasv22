@@ -8,7 +8,7 @@
 
 ## About Me
 
-* Incoming Software Engineer @ eBay
+* Software Engineer @ eBay
 * Building AI-powered applications and backend systems
 * Strong foundation in Data Structures & Algorithms
 * Exploring LLMs, RAG Systems, and AI Agents
